@@ -10,7 +10,7 @@ function App() {
       <h3>onClick</h3>
       <Tickler />
       <hr />
-
+      <h3>handleClick</h3>
       <MultiButton />
       <hr />
 
